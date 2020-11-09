@@ -8,5 +8,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: skyblue;
   line-height: 1.65;
-  padding-bottom: 1000;
+  padding-bottom: 1000px;
+}
+
+/* Latihan Satu */
+
+.container-satu {
+  width: 800px;
+  margin: 50px auto;
+  background-color: white;
 }
